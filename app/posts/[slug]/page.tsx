@@ -32,7 +32,6 @@ export default async function PostPage({
         <Link href="/" className="hover:underline">
           JumpToRecipe
         </Link>
-        .
       </h2>
       <article>
         <h1 className="text-2xl md:text-xl font-bold tracking-tighter leading-tight md:leading-none mb-12 text-center md:text-left">
